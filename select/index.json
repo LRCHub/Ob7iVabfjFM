@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "Taxi to the Moon",
+  "base_artist": "Penthouse",
+  "createdAt": "2025-12-11T05:58:16.879248Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Taxi to the Moon",
+      "artist": "Penthouse",
+      "has_synced": false,
+      "path": "select/01_Taxi_to_the_Moon_Penthouse.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Taxi to the Moon",
+      "artist": "Penthouse",
+      "has_synced": false,
+      "path": "select/pl_01_Taxi_to_the_Moon_Penthouse.txt"
+    }
+  ]
+}
